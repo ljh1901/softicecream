@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\student_java\softicecream2\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3780077103.index
+1460118376.index
+1314089073.index
+4217078005.index
+484392849.index
+3798075603.index
+3825830036.index
